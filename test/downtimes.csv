@@ -1,2 +1,2 @@
 Date,Project Days,Cumulative Average Downtime,Daily Average Downtime ,CAMERA_NAME_2
-2023-01-10,1,1,1,1
+2023-01-10,1,= SUM(D2:D2)/B2,= AVERAGE(E2:E2),2
